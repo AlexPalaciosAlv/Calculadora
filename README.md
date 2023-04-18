@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora realizada en React Native, para ejecutar en Android e Ios.
+Calculadora realizada en React Native, para ejecutar en Android e iOS.
